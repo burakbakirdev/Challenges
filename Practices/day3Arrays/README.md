@@ -1,0 +1,1 @@
+Solution of Day 3: Array Challenge on HackerRank
